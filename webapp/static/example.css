@@ -21,7 +21,7 @@ div.play .input {
   padding: 0px;
   margin-top: 0px;
   overflow: hidden;
-  height: 100%;
+  height: 200px;
 }
 div.play .input textarea {
   width: 100%;
